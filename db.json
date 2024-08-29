@@ -1,0 +1,23 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "i phone 14",
+        "description": "smart phone",
+        "price": 29.99
+      },
+      {
+        "id": 2,
+        "name": "dell lap",
+        "description": "an updated version",
+        "price": 49.99
+      },
+      {
+        "id": 3,
+        "name": "headset",
+        "description": "the new version with noise cancelation",
+        "price": 19.99
+      }
+    ]
+  }
+  

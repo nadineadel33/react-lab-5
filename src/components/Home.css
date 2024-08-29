@@ -1,0 +1,22 @@
+.home-container {
+    padding: 20px;
+  }
+  
+  .card {
+    text-align: center;
+  }
+  
+  .card-title {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .card-text {
+    color: #777;
+  }
+  
+  .spinner-border {
+    display: block;
+    margin: 50px auto;
+  }
+  

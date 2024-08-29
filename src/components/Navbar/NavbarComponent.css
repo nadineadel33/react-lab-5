@@ -1,0 +1,14 @@
+.navbar {
+    margin-bottom: 30px;
+    font-size: 1.2rem;
+  }
+  
+  .navbar .nav-link {
+    margin-right: 10px;
+    color: #fff;
+  }
+  
+  .navbar .nav-link.active {
+    color: #ff6347 !important;
+  }
+  
